@@ -1,0 +1,5 @@
+2026-04-28 10:00:01 INFO Application started
+2026-04-28 10:02:15 WARNING Low memory
+2026-04-28 10:05:30 ERROR Database connection failed
+2026-04-28 10:07:10 INFO User logged in
+2026-04-28 10:08:40 ERROR Timeout occurred
